@@ -1,0 +1,16 @@
+{
+ "author": "MySelf",
+ "status": true,
+ "result": {
+  "spek": "Oppo Reno8 Pro+",
+  "type": "AMOLED, 1B colors, 120Hz, HDR10+, 500 nits (typ), 800 nits (HBM), 950 nits (peak)",
+  "size": "6.7 inches, 108.0 cm2 (~90.3% screen-to-body ratio)",
+  "resolusi": "1080 x 2412 pixels, 20:9 ratio (~394 ppi density)",
+  "chipset": "MediaTek Dimensity 8100-Max (5 nm)",
+  "os": "Android 12, ColorOS 12.1",
+  "cpu": "Octa-core (4x2.85 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+  "internal": "256GB 8GB RAM, 256GB 12GB RAM",
+  "camera": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, PDAF\n8 MP, f/2.2, 112˚ (ultrawide), 1/4.0\", 1.12µm\n2 MP, f/2.4, (macro)",
+  "batterai": "Li-Po 4500 mAh, non-removable"
+ }
+}
